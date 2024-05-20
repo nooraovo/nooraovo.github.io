@@ -16,7 +16,7 @@ main:
     url: /experience/
     
   - title: "CV"
-    URL: "../assets/CV.pdf"
+    URL: /CV.pdf/
     
   # - title: "Guide"
   #   url: /markdown/
