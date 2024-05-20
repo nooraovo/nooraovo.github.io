@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Shuning Shang 尚书宁"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "me.png"
-  name             : "Shuning Shang(尚书宁)"
+  name             : "Shuning Shang"
   pronouns         : # example: "she/her"  
   bio              : "Undergraduate @ZJU"
   location         : "Zhejiang, China"
