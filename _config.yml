@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/me.png"
+  avatar           : "me.png"
   name             : "Shuning Shang(尚书宁)"
   pronouns         : # example: "she/her"  
   bio              : "Undergraduate @ZJU"
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "Shuning Shang"
+  linkedin         : "https://www.linkedin.com/in/shuning-shang/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -65,7 +65,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "Shuning Shang"
+  twitter          : "https://x.com/susieshang"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
