@@ -15,3 +15,4 @@ Education
 * visiting student at University of California, Berkeley, 2024 Spring
 * B.S. in Computer Science, Zhejiang University, 2025(expected)
 
+You can also find my articles on <a href="CV.pdf">my Google Scholar profile</a>
