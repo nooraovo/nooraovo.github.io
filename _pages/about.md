@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Shuning Shang, a junior from [Zhejiang University, Chukochen Honors College](http://ckc.zju.edu.cn/ckcen/). I major in Computer Science with a minor in Statistics.
+Hi! I'm Shuning Shang, a senior from [Zhejiang University, Chukochen Honors College](http://ckc.zju.edu.cn/ckcen/). I major in Computer Science with a minor in Statistics.
 
 My research interest lies in machine learning theory, especially the foundations and principles of deep learning. I believe we can use mathematical tools to explore the "Black Box" of AI, and then fully unlock its potential. Currently, I'm very fortunate to be advised by [Prof. Difan Zou](https://difanzou.github.io/) from the University of Hong Kong to do research on deep learning theory. I also conduct summer research on relevant topics under the guidance of [Prof. Wei Hu](https://weihu.me/) at the University of Michigan. You can find my CV [here](../assets/CV.pdf).
 
