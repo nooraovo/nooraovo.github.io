@@ -5,11 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-* **[Preprint]** [**Benign overfitting in Fixed Dimension via Physics-Informed Learning with Smooth Inductive Bias**](https://arxiv.org/abs/2406.09194)  
-  **Honam Wong**, Wendao Wu, Fanghui Liu, Yiping Lu  
-  Submitted.
-  ([Slides](https://www.overleaf.com/read/fwtqkmwcmhxq#3d420d))
+* **Initialization Matters: On the Benign Overfitting of Two-Layer ReLU CNN with Fully Trainable Layers**  
+  **Shuning Shang**, Xuran Meng, Yuan Cao, Difan Zou  
+  Preprint.
+  ([Arxiv](https://arxiv.org/abs/2410.19139))
 
-* **[ICLR 2024]** [**Spurious Feature Diversification Improves Out-of-distribution Generalization**](https://arxiv.org/abs/2309.17230)  
-  Yong Lin\*, Lu Tan\*, Yifan Hao\*, **Honam Wong**, Hanze Dong, Weizhong Zhang, Yujiu Yang, Tong Zhang  
-  In *the Twelfth International Conference on Learning Representations* (ICLR), 2024.  
+* **Benign Overfitting in Single-Head Attention** 
+  Roey Magen\*, **Shuning Shang**\*, Zhiwei Xu, Spencer Frei, Wei Hu, Gal Vardi  
+  Preprint.
+  ([Arxiv](https://arxiv.org/abs/2410.07746)) 
