@@ -37,4 +37,6 @@ plugins:
 collections:
   - publications
   - news
-  - showcase
+
+include:
+  - assets
