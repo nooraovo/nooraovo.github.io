@@ -39,15 +39,15 @@ education:
 
 experience:
 - name: University of Michigan
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/Umich.jpg
   position: Research Intern
   date: May. 2024 - Oct. 2024
 - name: University of California, Berkeley
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/UCB.jpg
   position: Exchange Student
   date: Jan. 2024 - May. 2024
 - name: University of California, Los Angeles
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/UCLA.jpg
   position: Exchange Student
   date: Jul. 2023 - Aug. 2023
 
