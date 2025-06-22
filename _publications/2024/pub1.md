@@ -9,7 +9,7 @@ pub_post:       'Under review.'
 # pub_date:       "2024"
 
 abstract: >-
-  We study benign overfitting in single-head attention, the core of Transformers. We show that under certain conditions, the model can fit noisy training data and still generalize well, even after just two steps of gradient descent. Our results highlight the key role of the signal-to-noise ratio in enabling this behavior.
+  We study benign overfitting in two-layer ReLU CNNs with all layers trained, going beyond prior work that fixes the output layer. We show that the output layer's initialization scale crucially affects training dynamics and generalization. Our analysis provides sharp conditions under which benign overfitting occurs, supported by matching bounds and experiments.
 cover:          /assets/images/covers/initializationmatters.JPG
 authors:
   - Shuning Shang
