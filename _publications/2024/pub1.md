@@ -1,7 +1,7 @@
 ---
 title:          "Initialization Matters: On the Benign Overfitting of Two-Layer ReLU CNN with Fully Trainable Layers"
 date:           2024-10-24 00:01:00 +0800
-selected:       true
+selected:       false
 # pub:            "International Conference on Machine Learning (ICML)"
 # pub_pre:        "Submitted to "
 pub_post:       'Under review.'
