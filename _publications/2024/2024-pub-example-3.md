@@ -10,7 +10,7 @@ pub_post:       'Under review.'
 
 abstract: >-
   We study benign overfitting in single-head attention, the core of Transformers. We show that under certain conditions, the model can fit noisy training data and still generalize well, even after just two steps of gradient descent. Our results highlight the key role of the signal-to-noise ratio in enabling this behavior.
-cover:          /assets/images/covers/cover3.jpg
+cover:          /assets/images/covers/singlehead.JPG
 authors:
   - Roey Magen*
   - Shuning Shang*
