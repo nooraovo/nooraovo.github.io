@@ -32,22 +32,24 @@ portrait_caption: Photo with <a href="https://linzhanm.github.io/">Linzhan</a> i
 
 
 education:
-- name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
-  position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
-    Ph.D. Student
-  date: Sep. 2024 - present
-- name: Peking University
-  logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+- name: Zhejiang University
+  logo: /assets/images/badges/zju.png
+  position: B.Eng. in Computer Science
+  date: Sep. 2021 - Jun. 2025
 
-# experience:
-# - name: Peking University
-#   logo: /assets/images/badges/PKU_red.png
-#   position: Research Intern
-#   date: Sep. 2019 - Jul. 2021
+experience:
+- name: University of Michigan
+  logo: /assets/images/badges/PKU_red.png
+  position: Research Intern
+  date: May. 2024 - Oct. 2024
+- name: University of California, Berkeley
+  logo: /assets/images/badges/PKU_red.png
+  position: Exchange Student
+  date: Jan. 2024 - May. 2024
+- name: University of California, Los Angeles
+  logo: /assets/images/badges/PKU_red.png
+  position: Exchange Student
+  date: Jul. 2023 - Aug. 2023
 
 awards:
 - name: Award Name 2
