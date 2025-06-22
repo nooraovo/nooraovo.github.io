@@ -78,4 +78,5 @@ img.lazy {
 
 .figure-img {
     height: 400px !important; 
+    width: auto !important;
 }
