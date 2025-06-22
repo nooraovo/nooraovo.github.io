@@ -1,22 +1,23 @@
 ---
-title:          "Convallis a cras semper auctor neque vitae rutrum quisque non tellus orci ac"
-date:           2024-05-12 00:01:00 +0800
+title:          "Benign Overfitting in Single-Head Attention"
+date:           2024-10-10 00:01:00 +0800
 selected:       true
-pub:            "International Conference on Machine Learning (ICML)"
+# pub:            "International Conference on Machine Learning (ICML)"
 # pub_pre:        "Submitted to "
-# pub_post:       'Under review.'
-pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
-pub_date:       "2024"
+pub_post:       'Under review.'
+# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
+# pub_date:       "2024"
 
 abstract: >-
-  Photo by Pineapple Supply Co. on Unsplash. Please put a tldr (too-long-didnt-read, 1~2 sentences) of your publication here. It is not recommended to put the actual abstract here because it is usually too long to fit in. $\LaTeX$ is supported. $a=b+c$.
+  We study benign overfitting in single-head attention, the core of Transformers. We show that under certain conditions, the model can fit noisy training data and still generalize well, even after just two steps of gradient descent. Our results highlight the key role of the signal-to-noise ratio in enabling this behavior.
 cover:          /assets/images/covers/cover3.jpg
 authors:
-  - Your Name
-  - James Wang
-  - Some Other Name
-  - John Doe
+  - Roey Magen*
+  - Shuning Shang*
+  - Zhiwei Xu
+  - Spencer Frei
+  - Wei Hu†
+  - Gal Vardi†
 links:
-  Code: https://github.com/luost26/academic-homepage
-  Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
+  Paper: https://arxiv.org/abs/2410.07746
 ---
