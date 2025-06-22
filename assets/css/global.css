@@ -76,3 +76,6 @@ img.lazy {
     transform: scale(1.1);
 }
 
+.figure-img {
+    height: 260px !important; 
+}
