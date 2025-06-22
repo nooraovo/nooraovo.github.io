@@ -1,7 +1,7 @@
 ---
 title:          "Benign Overfitting in Single-Head Attention"
 date:           2024-10-10 00:01:00 +0800
-selected:       true
+selected:       false
 # pub:            "International Conference on Machine Learning (ICML)"
 # pub_pre:        "Submitted to "
 pub_post:       'Under review.'
